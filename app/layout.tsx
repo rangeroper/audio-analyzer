@@ -2,9 +2,9 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'arc analyze — the future is audio',
+  title: 'ARC - Audio Analyzer',
   description:
-    'smart audio + video analysis for the big shit. built for arc, by arc. listen. understand. memeify.',
+    'audio + video analysis for the big shit. built for arc, by arc. listen. understand. memeify.',
   generator: 'arc — where ai infrastructure meets memetics',
 }
 
