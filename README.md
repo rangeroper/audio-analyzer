@@ -7,7 +7,7 @@
 - 🤖 **summarization:** OpenAI GPT (`gpt-4o`)
 - 🔊 **audio compression:** Uses `ffmpeg` to reduce audio size by lowering bitrate to 64k before upload
 - ☁️ **vercel blob storage:** via a custom API route (`/api/upload-blob`) using `@vercel/blob`
-- 🎵 **supported format:** MP3
+- 🎵 **supported formats:** mp3, mp4, mpeg, mpga, m4a, wav, and webm
 
 ## ⚙️ Workflow
 
