@@ -1,4 +1,4 @@
-![Description](https://github.com/rangeroper/audio-analyzer/blob/main/arc_proto.png?raw=true)
+![Description](https://github.com/rangeroper/audio-analyzer/blob/main/public/arc_proto.png)
 
 ## 🚀 Stack & Features
 
